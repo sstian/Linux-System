@@ -1,0 +1,5 @@
+user	passwd
+root	5201314
+sky	5201314
+snow	520
+kiss	1110		
